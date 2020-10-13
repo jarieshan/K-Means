@@ -1,5 +1,7 @@
 # K-Means算法的Python实现
 
+注：该数据集仅为Demo，如需完整数据请Email：e.hanzhuo@gmai.com
+
 如果觉得对您有帮助的话，劳烦给个Star
 
 在K-Means.py中定义了一个KMeans类，只需要两行代码即可实现K-Means中心聚类算法
